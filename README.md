@@ -41,7 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Manelima/Manelima/output/snake.svg" alt="Snake animation" />
 
 ###
 

@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Emanuel, Eu sou Técnico em Redes de Computadores e Estudante de Programação pelo Embarque Digital.</h2>
+<h2 align="left">Olá! Meu nome é Emanuel, Eu sou Técnico em Redes de Computadores e Estudante de Programação pelo Embarque Digital.</h2>
 
 ###
 

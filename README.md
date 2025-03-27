@@ -1,11 +1,19 @@
-###Emanuel Lima Tomaz De Aquino
+# Emanuel Lima 
 
-#Olá! Meu nome é Emanuel Lima, Eu sou Técnico em Redes de Computadores e Estudante de Programação pelo Embarque Digital.
 
+Olá! Meu nome é Emanuel Lima, Eu sou Técnico em Redes de Computadores e Estudante de Programação pelo Embarque Digital.
+
+##
 Meus passatempos são: Jogar, Ler, Ouvir músicas, me exercitar e Estudar em geral.
-Atualmente, busco ingressar na área de Desenvolvimento Fullstack ou Dados.
-###
 
+Atualmente, busco ingressar na área de Desenvolvimento Fullstack ou Dados.
+##
+
+## 🛠️ Tecnologias  
+- **Linguagens:** Java e Javascript   
+- **Frameworks:** Vue.js, Spring e Angular.   
+- **Banco de Dados:** MySQL, PostgreSQL e Firebase. 
+##
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manelima&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manelima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -14,6 +22,10 @@ Atualmente, busco ingressar na área de Desenvolvimento Fullstack ou Dados.
 ###
 
 <div align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Framework logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="vuetify logo"  />
@@ -23,8 +35,6 @@ Atualmente, busco ingressar na área de Desenvolvimento Fullstack ou Dados.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />

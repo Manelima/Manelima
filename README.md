@@ -1,5 +1,9 @@
-<h2 align="left">Olá! Meu nome é Emanuel, Eu sou Técnico em Redes de Computadores e Estudante de Programação pelo Embarque Digital.</h2>
+###Emanuel Lima Tomaz De Aquino
 
+#Olá! Meu nome é Emanuel Lima, Eu sou Técnico em Redes de Computadores e Estudante de Programação pelo Embarque Digital.
+
+Meus passatempos são: Jogar, Ler, Ouvir músicas, me exercitar e Estudar em geral.
+Atualmente, busco ingressar na área de Desenvolvimento Fullstack ou Dados.
 ###
 
 <div align="center">

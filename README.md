@@ -6,7 +6,7 @@ Olá! Meu nome é Emanuel Lima, Eu sou Técnico em Redes de Computadores e Estud
 ##
 Meus passatempos são: Jogar, Ler, Ouvir músicas, Exercitar-se e Estudar em geral.
 
-Atualmente, busco ingressar na área de Desenvolvimento Fullstack ou Dados.
+Atualmente, faça freelances na área de desenvolvimento Web e busco ingressar na área de Desenvolvimento Fullstack ou Dados.
 ##
 
 ## 🛠️ Tecnologias  

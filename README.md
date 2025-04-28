@@ -10,8 +10,8 @@ Atualmente, busco ingressar na área de Desenvolvimento Fullstack ou Dados.
 ##
 
 ## 🛠️ Tecnologias  
-- **Linguagens:** Java e Javascript   
-- **Frameworks:** Vue.js, Spring e Angular.   
+- **Linguagens:** Java e Javascript.   
+- **Frameworks:** Spring, Vue.js, React e Angular.   
 - **Banco de Dados:** MySQL, PostgreSQL e Firebase. 
 ##
 <div align="center">

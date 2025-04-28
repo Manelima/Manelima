@@ -4,7 +4,7 @@
 Olá! Meu nome é Emanuel Lima, Eu sou Técnico em Redes de Computadores e Estudante de Programação pelo Embarque Digital.
 
 ##
-Meus passatempos são: Jogar, Ler, Ouvir músicas, me exercitar e Estudar em geral.
+Meus passatempos são: Jogar, Ler, Ouvir músicas, Exercitar-se e Estudar em geral.
 
 Atualmente, busco ingressar na área de Desenvolvimento Fullstack ou Dados.
 ##
